@@ -1,7 +1,5 @@
 language: generic
 branches:
-  only:
     - master
-    - master_ng
 script: 
  - bash -e ./15745111.bash 500 abc
